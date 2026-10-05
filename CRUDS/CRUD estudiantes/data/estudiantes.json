@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Eduard",
+    "apellido": "Moyano",
+    "email": "emoyanol3@unemi.edu.ec",
+    "carnet": "emoyanol3",
+    "notas": {
+      "programacion": [
+        9.0,
+        8.5
+      ],
+      "ingles": [
+        10.0,
+        9.0,
+        9.4
+      ]
+    },
+    "materias": [
+      "ingles",
+      "programacion"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Miguel",
+    "apellido": "Guevara",
+    "email": "mguevara@unemi.edu.ec",
+    "carnet": "mguevara",
+    "notas": {
+      "programacion": [
+        10.0,
+        9.0,
+        8.0
+      ]
+    },
+    "materias": [
+      "programacion"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Maria",
+    "apellido": "Bajaña",
+    "email": "mbajaña@unemi.edu.ec",
+    "carnet": "mbajaña",
+    "notas": {
+      "matematicas": [
+        10.0
+      ]
+    },
+    "materias": [
+      "matematicas"
+    ]
+  }
+]

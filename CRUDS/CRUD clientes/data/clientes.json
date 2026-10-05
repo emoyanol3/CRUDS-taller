@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nombre": "Eduard",
+    "apellido": "Moyano",
+    "email": "emoyanol@gmail.comm",
+    "telefono": "292992",
+    "ciudad": "Milagro",
+    "direccion": "Av Chile"
+  }
+]
